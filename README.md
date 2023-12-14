@@ -4,7 +4,11 @@
 - [Project Overview](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/edit/main/README.md#project-overview)
 - [Problem Statement](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/edit/main/README.md#problem-statement)
 - [Task](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/edit/main/README.md#consumer-goods-insights-and-adhoc-queries)
-- [Tool Used]()
+- [Tool Used](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/blob/main/README.md#tool-used)
+- [Quick Introduction](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/edit/main/README.md#project-overview)
+  - Product
+  - Customer
+  - Region, Market
 - [Datasets]
 - Database and Table Creation
   - 
