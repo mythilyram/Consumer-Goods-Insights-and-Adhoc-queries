@@ -1,10 +1,11 @@
 # Consumer-Goods-Insights-and-Adhoc-queries
 
 ## Table of Contents
-- Project Overview
-- Problem Statement
-- Tool Used
-- Datasets
+- [Project Overview](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/edit/main/README.md#project-overview)
+- [Problem Statement](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/edit/main/README.md#problem-statement)
+- [Task](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/edit/main/README.md#consumer-goods-insights-and-adhoc-queries)
+- [Tool Used]()
+- [Datasets]
 - Database and Table Creation
   - 
 - Adhoc Questions
@@ -28,7 +29,7 @@ Provide Insights to Management in the Consumer Goods Domain.
 -  Consider that the target audience is top-level management.
 -  Make a video presentation.
 
-## Tool Used
+## Tool Used:
 
 - MySQL
 - Power BI
@@ -36,18 +37,17 @@ Provide Insights to Management in the Consumer Goods Domain.
 - Youtube
 
  ## Quick Introduction 
- About the company and data set.
-
+ 
 AtliQ Hardware is a computer hardware and peripherals manufacturer. 
 
-Their **products** are broadly classified into 
+- Their **products** are broadly classified into 
 
 > Division -> Segment -> Category -> Products -> Variants
 
  ![image](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/assets/123518126/1205c42b-9210-44fb-818b-28fa29055daa)
 
  
-**Customer**
+- **Customer**
 
 platform -> Brick & Mortar, E-Commerce
 
