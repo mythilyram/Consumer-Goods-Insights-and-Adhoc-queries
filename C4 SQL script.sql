@@ -6,8 +6,9 @@ FROM dim_customer
 WHERE customer = "Atliq Exclusive" 
 		AND region = 'APAC';
         
--- What is the percentage of unique product increase in 2021 vs. 2020? The final output contains these fields, 
--- unique_products_2020, unique_products_2021, percentage_chg
+/* What is the percentage of unique product increase in 2021 vs. 2020? 
+  The final output contains these fields, unique_products_2020, unique_products_2021, percentage_chg*/
+
 WITH unique_products AS (
 	SELECT
 		COUNT(DISTINCT CASE WHEN fiscal_year=2020 THEN product_code END) AS unique_products_2020,
@@ -92,7 +93,7 @@ WHERE customer = "Atliq Exclusive"
 GROUP BY YEAR,MONTH(DATE),MONTHNAME(date)
 ORDER BY YEAR;
 
--- year(date) and order by year gives the correctorder of results
+-- year(date) and order by year give the correct order of results
 
 -- 8. In which quarter of 2020, got the maximum total_sold_quantity? The final output contains these fields:
 -- sorted by the total_sold_quantity, Quarter, total_sold_quantity
