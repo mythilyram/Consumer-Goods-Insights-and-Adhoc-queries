@@ -18,10 +18,7 @@ Provide Insights to Management in the Consumer Goods Domain.
 
 ## Problem Statement:
 
-- Atliq Hardware, a leading computer hardware manufacturer globally, faces a critical need for improved data insights to support quick and well-informed decision-making.
-- To address this challenge, the company is expanding its workforce by establishing a dedicated data analytics team and hiring new analysts.
-- They are actively seeking individuals with a blend of technical expertise and strong soft skills.
-- As part of the hiring process, they have introduced a SQL challenge to assess the competencies of potential candidates.
+Atliq Hardware, a global computer hardware manufacturer, needs better data insights for decision-making. It is hiring new data analysts who have technical and soft skills. It has a SQL challenge to evaluate the candidates’ SQL and visualization skills using sales and financial data from Atliq Hardware. The candidates have to use SQL scripts, Power BI visuals, and reports that answer specific questions about the company’s performance. The SQL challenge is a way to find the best fit for the data analytics team.
 
 ## Task:
 
@@ -42,13 +39,13 @@ Provide Insights to Management in the Consumer Goods Domain.
  
 AtliQ Hardware is a computer hardware and peripherals manufacturer. 
 
-- **Products** are broadly classified into 
+- dim_product: contains product-related data. **Products** are broadly classified into 
 
 > Division -> Segment -> Category -> Products -> Variants
 
 ![image](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/assets/123518126/23d8bdc3-961b-4568-8b4e-74138237558e)
  
-- **Customer**
+-dim_customer: contains customer-related data **Customer**
   
   Atliq`s has Brick & Mortar and E-Commerce customers, This is called their **platform**.
   They sell their goods through different **channels**: Retailer, Direct, Distributor.
