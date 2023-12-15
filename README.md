@@ -1,4 +1,4 @@
-# Consumer-Goods-Insights-and-Adhoc-queries
+# Consumer-Goods-Domain-Insights-and-Adhoc-queries
 
 ## Table of Contents
 - [Project Overview](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/edit/main/README.md#project-overview)
