@@ -48,7 +48,8 @@ AtliQ Hardware is a computer hardware and peripherals manufacturer.
 
 > Division -> Segment -> Category -> Products -> Variants
 
- ![image](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/assets/123518126/1205c42b-9210-44fb-818b-28fa29055daa)
+![image](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/assets/123518126/0bf1f7cb-cc94-4488-a159-d1162c63726c)
+
 
  
 - **Customer**
@@ -57,7 +58,7 @@ platform -> Brick & Mortar, E-Commerce
 
 Channel -> Retailer, Direct, Distributor
 
-![image](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/assets/123518126/942eac73-7d6a-4420-9e13-df388e6beaa2)
+![image](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/assets/123518126/e4f525a0-8fc2-4eed-927f-302b757cf485)
 
 
 
