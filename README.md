@@ -5,7 +5,7 @@
 - [Problem Statement](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/edit/main/README.md#problem-statement)
 - [Task](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/edit/main/README.md#consumer-goods-insights-and-adhoc-queries)
 - [Tool Used](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/blob/main/README.md#tool-used)
-- [Quick Introduction](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/edit/main/README.md#project-overview)
+- [Quick Introduction](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/blob/main/README.md#quick-introduction)
   - Product
   - Customer
   - Region, Market
@@ -49,17 +49,16 @@ AtliQ Hardware is a computer hardware and peripherals manufacturer.
 ![image](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/assets/123518126/23d8bdc3-961b-4568-8b4e-74138237558e)
  
 - **Customer**
-
-platform -> Brick & Mortar, E-Commerce
-
-Channel -> Retailer, Direct, Distributor
+  
+  Atliq`s has Brick & Mortar and E-Commerce customers, This is called their **platform**.
+  They sell their goods through different **channels**: Retailer, Direct, Distributor.
 
 ![image](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/assets/123518126/bfb6c2e0-138b-4e27-a23b-bd8fdf7624e6)
 
 - **Region / Market**
-
+The customer base is classified into 4 regions: APAC, EU, NA, and LATAM.
+They have their business established in the following countries:
 ![image](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/assets/123518126/e01ca926-0911-4457-a265-21e6e4424b88)
-
 
 - **Fiscal Year**
 ![image](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/assets/123518126/870d2bb2-38b8-499d-b39b-7c71bf030920)
