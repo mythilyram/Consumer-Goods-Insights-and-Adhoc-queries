@@ -1,6 +1,7 @@
 # Consumer-Goods-Domain-Insights-and-Adhoc-queries
 
 [LinkedIn Post](https://www.linkedin.com/posts/mythily-ramanathan_consumer-goods-queries-insights-activity-7141536025520046080-youi?utm_source=share&utm_medium=member_desktop)
+
 [Portfolio](https://codebasics.io/portfolio/Mythily-Ramanathan)
 ## Table of Contents
 - [Project Overview](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/edit/main/README.md#project-overview)
