@@ -1,7 +1,8 @@
 # Consumer-Goods-Domain-Insights-and-Adhoc-queries
 
 - [LinkedIn Post](https://www.linkedin.com/posts/mythilyramanathan_consumer-goods-activity-7143349159595581440-WSFG?utm_source=share&utm_medium=member_desktop) ,  [Portfolio](https://codebasics.io/portfolio/Mythily-Ramanathan)
-- [Presentation video](https://youtu.be/cNJZylMQ12A?si=YlC0frdUmfsV0tHl) ,  [Presentation Slides](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/blob/main/Presentation%20slides.pdf)
+- [Presentation video](https://youtu.be/cNJZylMQ12A?si=YlC0frdUmfsV0tHl) ,  [Presentation Slides](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/blob/main/Presentation%20slides.pdf),
+- [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTQ4N2JiM2ItZjFkZC00NjdiLTlhNGMtNGUzNTJiNTlmNGM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
   
 ## Table of Contents
